@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # or master
+      - main
 
 permissions:
   contents: read
@@ -25,13 +25,13 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build project
+      - name: Build project (CRA)
         run: npm run build
 
       - name: Upload build output
         uses: actions/upload-pages-artifact@v2
         with:
-          path: ./dist  # or ./build for CRA
+          path: ./build   # ✅ CRA uses build/, not dist/
 
   deploy:
     needs: build
