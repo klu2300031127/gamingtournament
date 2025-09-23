@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gamingtournament/static/css/main.35d1932b.css",
+    "main.js": "/gamingtournament/static/js/main.36ce2589.js",
+    "static/media/hero-image.jpg": "/gamingtournament/static/media/hero-image.c9fcd16d8d2c7d253a7f.jpg",
+    "static/media/apex.jpeg": "/gamingtournament/static/media/apex.3b4453d23b21faadab53.jpeg",
+    "static/media/valorant.jpeg": "/gamingtournament/static/media/valorant.f32f5a7fbed25f618bcd.jpeg",
+    "static/media/fortnite.jpeg": "/gamingtournament/static/media/fortnite.6226ee5c6b89451dfac2.jpeg",
+    "static/media/freefire.jpeg": "/gamingtournament/static/media/freefire.2f756544fb46c407c0b9.jpeg",
+    "index.html": "/gamingtournament/index.html",
+    "main.35d1932b.css.map": "/gamingtournament/static/css/main.35d1932b.css.map",
+    "main.36ce2589.js.map": "/gamingtournament/static/js/main.36ce2589.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d1932b.css",
+    "static/js/main.36ce2589.js"
+  ]
+}
