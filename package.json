@@ -2,7 +2,7 @@
   "name": "my-app-cra",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/gamingtournament",
+  "homepage": "https://klu2300031127.github.io/gamingtournament",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
